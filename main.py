@@ -1,8 +1,6 @@
 
-
 import pandas as pd
 import numpy as np
-
 #Data viz
 import seaborn as sns
 import matplotlib as mpl
